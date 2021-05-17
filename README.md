@@ -1,3 +1,4 @@
+[Amrith_mahesh.ipynb.txt](https://github.com/amrith4116/SHAPEAI_Amrith_mahesh_/files/6495670/Amrith_mahesh.ipynb.txt)
 
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
